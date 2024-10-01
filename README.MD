@@ -11,4 +11,6 @@ git init
 ```sh
 git status
 ```
-git
+
+agrego texto.
+
