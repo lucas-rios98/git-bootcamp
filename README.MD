@@ -18,4 +18,11 @@ agrego texto.
 
 ```
 git commit -m "mensaje descriptivo de lo que tiene el archivo"
+```
+
+# corregir el mensaje del commit
+
+```sh
+git commit  --ammend  -m "el mesaje corregido"
+
 
