@@ -25,4 +25,11 @@ git commit -m "mensaje descriptivo de lo que tiene el archivo"
 ```sh
 git commit  --ammend  -m "el mesaje corregido"
 
+](image-1.png)](image.png)
+
+```sh
+git log # version larga
+git log --oneline # version larga
+```
+
 
