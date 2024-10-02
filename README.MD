@@ -14,3 +14,8 @@ git status
 
 agrego texto.
 
+# persistimos los cambios agregados al area de confirmacion en un commit
+
+```
+git commit -m "mensaje descriptivo de lo que tiene el archivo"
+
